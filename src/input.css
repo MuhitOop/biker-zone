@@ -1,2 +1,9 @@
 @import "tailwindcss";
 @plugin "daisyui";
+@theme {
+  --font-poppins: "Poppins", "serif"; 
+  --color-bike-primary:#E76F51;
+  --color-bike-black:#000000;
+  --color-bike-black-80:rgba(0, 0, 0, 0.8);
+  --color-bike-primary-bg:rgba(231, 111, 81, 0.1);
+}
